@@ -25,7 +25,7 @@ function calculate() {
             output.innerText = "Single forever";
         }
         if ((name1.toLowerCase() == "prajeena" || name2.toLowerCase() == "prajeena") && (name1.toLowerCase() == "aayush" || name2.toLowerCase() == "aayush")) {
-            output.innerText = " in relationship"
+            output.innerText = "katti ramrooooo "
         }
         else {
             let lovePercent = parseInt(Math.random() * 100);
